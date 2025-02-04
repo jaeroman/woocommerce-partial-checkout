@@ -1,0 +1,20 @@
+/* Align checkbox to the left of the product image */
+.wc-block-cart-item__image, .product-thumbnail {
+    display: flex;
+    align-items: center;
+    gap: 16px; /* Space between checkbox and image */
+}
+
+.wcpc-select-item {
+    width: 25px;
+    height: 25px;
+    transform: scale(2);
+    cursor: pointer;
+}
+
+/* Highlight the selected product row */
+.wcpc-selected {
+    background-color: #f3f8ff; /* Light blue */
+    border-left: 4px solid #007cba; /* WooCommerce blue */
+    transition: background-color 0.3s ease;
+}
