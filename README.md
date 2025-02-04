@@ -32,6 +32,9 @@
 - After checkout, unselected items **remain in the cart**.
 - Prevents users from losing cart contents when partially checking out.
 
+### **Sample Video**
+https://www.loom.com/share/761abf35c28947e08e4239939bd1aa24?sid=01e46bde-ff71-49dc-95a0-9f5c05e34b53
+
 ---
 
 ## Webhooks and Settings
