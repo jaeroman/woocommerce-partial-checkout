@@ -4,6 +4,10 @@
 https://www.loom.com/share/761abf35c28947e08e4239939bd1aa24?sid=01e46bde-ff71-49dc-95a0-9f5c05e34b53
 https://mifin.jaeromeroman.com/
 
+## Admin Credentials
+admin
+qweasdzxc123
+
 ## Installation Guide
 
 ### **1. Download and Upload the Plugin**
