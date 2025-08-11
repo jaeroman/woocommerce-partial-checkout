@@ -1,13 +1,5 @@
 # WooCommerce Partial Checkout Plugin
 
-### **Sample Video and Website**
-https://www.loom.com/share/761abf35c28947e08e4239939bd1aa24?sid=01e46bde-ff71-49dc-95a0-9f5c05e34b53
-https://mifin.jaeromeroman.com/
-
-## Admin Credentials
-admin
-qweasdzxc123
-
 ## Installation Guide
 
 ### **1. Download and Upload the Plugin**
@@ -83,8 +75,3 @@ The plugin sends **order data** to a webhook URL after a successful checkout.
 1. Go to **WooCommerce → Settings → Checkout**.
 2. Toggle **Enable Partial Checkout** to **ON** or **OFF**.
 3. Click **Save Changes**.
-
-
-### **Challenges Faced**
-1. I used the Woocommerce blocks on the cart page which prevented me to use some certain hooks but I was able to do a work around it.
-2. I had some problems with the retaining the unselected items because Woo is clearing the sessions after checkout.
